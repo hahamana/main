@@ -42,7 +42,17 @@
 * [kiyora](idols/kiyora)
 * [riamu](idols/riamu)
 
-
-# 아이돌마스터 신데렐라 걸즈 아이돌 갤러리 아카이브
 ## 보존된 푸치 프로필 목록
 * [yumi,nanami,eve](etc/puchi/yuminanamieve)
+* [mizuki,otoha,misaki](etc/puchi/mizukiotohamisaki)
+* [tsukasa,chiaki,sae](etc/puchi/tsukasachiakisae)
+* [ibuki,chinami,kotoka](etc/puchi/ibukichinamikotoka)
+* [yoko,satomi,marina](etc/puchi/yokosatomimarina)
+* [umi,siori,natsumi](etc/puchi/umisiorinatsumi)
+* [kako,noa,akari](etc/puchi/kakonoaakari)
+* [airi,honami,minami](etc/puchi/airihonamiminami)
+* [ayuna,miyo,yuki](etc/puchi/ayunamiyoyuki)
+* [rena,miku,shiho](etc/puchi/renamikushiho)
+* [ryo,sarina,yukari](etc/puchi/ryosarinayukari)
+* [miyu,kanako,makino](etc/puchi/miyukanakomakino)
+* [kiyora,riamu,nana](etc/puchi/kiyorariamunana)
