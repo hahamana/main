@@ -47,7 +47,6 @@
 * [mizuki,otoha,misaki](etc/puchi/mizukiotohamisaki)
 * [tsukasa,chiaki,sae](etc/puchi/tsukasachiakisae)
 * [ibuki,chinami,kotoka](etc/puchi/ibukichinamikotoka)
-* [yoko,satomi,marina](etc/puchi/yokosatomimarina)
 * [umi,siori,natsumi](etc/puchi/umisiorinatsumi)
 * [kako,noa,akari](etc/puchi/kakonoaakari)
 * [airi,honami,minami](etc/puchi/airihonamiminami)
@@ -56,3 +55,5 @@
 * [ryo,sarina,yukari](etc/puchi/ryosarinayukari)
 * [miyu,kanako,makino](etc/puchi/miyukanakomakino)
 * [kiyora,riamu,nana](etc/puchi/kiyorariamunana)
+* [uzuki,marina,satomi](etc/puchi/uzukimarinasatomi)
+* [yoshino,ranko,yoko](etc/puchi/yoshinorankoyoko)
